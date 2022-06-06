@@ -9,7 +9,7 @@ import random
 
 def number_average(everyMark):
     # this function find the average
-    
+
     the_average = 0
     for singleMark in everyMark:
         the_average = singleMark + the_average
